@@ -1,0 +1,15 @@
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\bin\Debug\net6.0\hypotenuse-calculator-sys.exe
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\bin\Debug\net6.0\hypotenuse-calculator-sys.deps.json
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\bin\Debug\net6.0\hypotenuse-calculator-sys.runtimeconfig.json
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\bin\Debug\net6.0\hypotenuse-calculator-sys.dll
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\bin\Debug\net6.0\hypotenuse-calculator-sys.pdb
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.csproj.AssemblyReference.cache
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.AssemblyInfoInputs.cache
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.AssemblyInfo.cs
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.csproj.CoreCompileInputs.cache
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.dll
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\refint\hypotenuse-calculator-sys.dll
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.pdb
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\hypotenuse-calculator-sys.genruntimeconfig.cache
+D:\Users\Astrinn\Documents\host\repository\hypotenuse-calculator\hypotenuse-calculator-sys\hypotenuse-calculator-sys\obj\Debug\net6.0\ref\hypotenuse-calculator-sys.dll

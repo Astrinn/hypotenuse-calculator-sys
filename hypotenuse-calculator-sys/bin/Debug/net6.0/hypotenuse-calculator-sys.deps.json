@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hypotenuse-calculator-sys/1.0.0": {
+        "runtime": {
+          "hypotenuse-calculator-sys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hypotenuse-calculator-sys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
